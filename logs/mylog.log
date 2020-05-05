@@ -1,0 +1,10 @@
+2020-05-05 00:52:34.288 [http-nio-8888-exec-8] INFO  com.course.controller.UserManager - 查看到的结果是1
+2020-05-05 00:52:34.416 [http-nio-8888-exec-9] INFO  com.course.controller.UserManager - 查看到的结果是0
+2020-05-05 00:52:34.535 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - cookies验证通过
+2020-05-05 00:52:34.546 [http-nio-8888-exec-10] INFO  com.course.controller.UserManager - 添加用户的数量是:1
+2020-05-05 00:52:36.687 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - cookies验证通过
+2020-05-05 00:52:36.703 [http-nio-8888-exec-1] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2020-05-05 00:52:38.850 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - cookies验证通过
+2020-05-05 00:52:38.864 [http-nio-8888-exec-2] INFO  com.course.controller.UserManager - getUserInfo获取到的用户数量是1
+2020-05-05 00:52:40.975 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - cookies验证通过
+2020-05-05 00:52:40.978 [http-nio-8888-exec-3] INFO  com.course.controller.UserManager - 更新数据的条目数为:1
